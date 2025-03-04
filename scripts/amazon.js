@@ -1,4 +1,5 @@
 import {cart} from '../data/cart.js'; //imports must be at the top of the file
+import {products} from '../data/products.js';
 
 let productsHTML = '';
 
