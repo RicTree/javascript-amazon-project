@@ -642,9 +642,41 @@ const products = [
     ]
   },
   {
+    id: "bc2847e9-5323-403e-b7cf-57fde044a955",
+    image: "images/products/backpack.jpg",
+    name: "Black Backpack",
+    rating: {
+      stars: 4.5,
+      count: 3421
+    },
+    priceCents: 8000,
+    keywords: [
+      "bag",
+      "backpack",
+      "napsack",
+      "travel"
+    ]
+  },
+  {
     id: "bc2847e9-5323-403f-b7cf-57fde044a955",
     image: "images/products/men-cozy-fleece-zip-up-hoodie-red.jpg",
     name: "Men's Full-Zip Hooded Fleece Sweatshirt",
+    rating: {
+      stars: 4.5,
+      count: 3157
+    },
+    priceCents: 2400,
+    keywords: [
+      "sweaters",
+      "hoodies",
+      "apparel",
+      "mens"
+    ]
+  },
+  {
+    id: "bc2847e9-5323-403g-b7cf-57fde044a955",
+    image: "images/products/umbrella.jpg",
+    name: "Green Umbrella",
     rating: {
       stars: 4.5,
       count: 3157
